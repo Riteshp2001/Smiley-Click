@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+
+.highlighted-svg-element {
+  outline: 2px dotted red;
+}
