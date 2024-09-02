@@ -33,6 +33,6 @@ body {
 }
 
 
-.highlighted-svg-element {
+.bordered {
   outline: 2px dotted red;
 }
